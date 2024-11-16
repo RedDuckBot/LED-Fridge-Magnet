@@ -15,3 +15,11 @@ soft pine piece with the engraved bee was CNC cut, as well as the white hexagon 
 </table>
 
 # Electronics
+<table>
+    <tr>
+    <td><img src=docs/images/opened_cover_pic.jpg width="600"></td>
+    <td><img src=docs/images/PCB_pic.jpg width="600"></td>
+    </tr>
+<table>
+
+The circuit is quite simple where each board had six LEDs wired in parallel and powered by a CR2032 lithium ion button battery. 
