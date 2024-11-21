@@ -1,6 +1,6 @@
 # LED Fridge Magnet
-Honey comb, LED fridge magnet designed with a simple custom PCB. The top and base covers are 3D printed while the centered 
-soft pine piece with the engraved bee was CNC cut, as well as the white hexagon pieces, for hiding the LEDs, which were cutout from a white acrylic sheet. The gerber files for the PCB and the 3D print files have all been provided.
+Honey comb, LED fridge magnet designed with a simple custom PCB. The top and base covers are 3D printed. Placed at the center of the top covers 
+is a piece of soft pine wood with an engraved bee. The engraving was done using a CNC machine as well as the white hexagon pieces (for hiding the LEDs), which were cutout from a white acrylic sheet. The gerber files for the PCB and the 3D print files have all been provided.
 
 <table>
     <tr>
